@@ -1,6 +1,6 @@
 # My Leet Code Algorithm Solutions
 
-My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/alicolak_64/)
+My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.com/u/serhatbekirtan/)
  ## Easy
 
 | # |  Title  | Solution |  
