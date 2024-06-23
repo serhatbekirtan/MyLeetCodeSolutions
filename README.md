@@ -15,3 +15,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 27 | Remove Element | [Python](/Easy/27-RemoveElement/)|
 | 28 | Find the Index of the First Occurrence | [Python](/Easy/28-FindTheIndexOfTheFirstOccurenceInAString/)|
 | 35 | Search Insert Position | [Python](/Easy/35-SearchInsertPosition/)|
+| 58 | Length of Last Word | [Python](/Easy/58-LengthOfLastWord/)|
