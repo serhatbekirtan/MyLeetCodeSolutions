@@ -14,3 +14,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 26 | Remove Duplicates from Sorted Array | [Python](/Easy/26-RemoveDuplicatesfromSortedArray/)|
 | 27 | Remove Element | [Python](/Easy/27-RemoveElement/)|
 | 28 | Find the Index of the First Occurrence | [Python](/Easy/28-FindTheIndexOfTheFirstOccurenceInAString/)|
+| 35 | Search Insert Position | [Python](/Easy/35-SearchInsertPosition/)|
