@@ -2,7 +2,7 @@ from typing import List
 
 
 class Solution:
-    def removeDuplicates1(self, nums: List[int]) -> int:
+    def removeDuplicates(self, nums: List[int]) -> int:
         unique = 0
         checker = 1
 
