@@ -16,3 +16,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 28 | Find the Index of the First Occurrence | [Python](/Easy/28-FindTheIndexOfTheFirstOccurenceInAString/)|
 | 35 | Search Insert Position | [Python](/Easy/35-SearchInsertPosition/)|
 | 58 | Length of Last Word | [Python](/Easy/58-LengthOfLastWord/)|
+| 66 | Plus One | [Python](/Easy/66-PlusOne/)|
