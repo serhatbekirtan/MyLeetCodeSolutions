@@ -18,3 +18,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 58 | Length of Last Word | [Python](/Easy/58-LengthOfLastWord/)|
 | 66 | Plus One | [Python](/Easy/66-PlusOne/)|
 | 67 | Add Binary | [Python](/Easy/67-AddBinary/)|
+| 69 | Sqrt(x) | [Python](/Easy/69-Sqrt(x)/)|
