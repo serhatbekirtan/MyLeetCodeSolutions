@@ -17,3 +17,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 35 | Search Insert Position | [Python](/Easy/35-SearchInsertPosition/)|
 | 58 | Length of Last Word | [Python](/Easy/58-LengthOfLastWord/)|
 | 66 | Plus One | [Python](/Easy/66-PlusOne/)|
+| 67 | Add Binary | [Python](/Easy/67-AddBinary/)|
