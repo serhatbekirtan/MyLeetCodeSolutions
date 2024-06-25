@@ -19,3 +19,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 66 | Plus One | [Python](/Easy/66-PlusOne/)|
 | 67 | Add Binary | [Python](/Easy/67-AddBinary/)|
 | 69 | Sqrt(x) | [Python](/Easy/69-Sqrt(x)/)|
+| 70 | Climbing Stairs | [Python](/Easy/70-ClimbingStairs/)|
