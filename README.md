@@ -20,4 +20,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 67 | Add Binary | [Python](/Easy/67-AddBinary/)|
 | 69 | Sqrt(x) | [Python](/Easy/69-Sqrt(x)/)|
 | 70 | Climbing Stairs | [Python](/Easy/70-ClimbingStairs/)|
-| 83 | Remove Duplicates from Sorted List | [Python](/Easy/83-RemoveDuplicatesfromSortedList/)|
+| 83 | Remove Duplicates from Sorted List | [Python](/Easy/83-RemoveDuplicatesFromSortedList/)|
