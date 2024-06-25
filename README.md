@@ -21,3 +21,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 69 | Sqrt(x) | [Python](/Easy/69-Sqrt(x)/)|
 | 70 | Climbing Stairs | [Python](/Easy/70-ClimbingStairs/)|
 | 83 | Remove Duplicates from Sorted List | [Python](/Easy/83-RemoveDuplicatesFromSortedList/)|
+| 88 | Merge Sorted Array | [Python](/Easy/88-MergeSortedArray/)|
