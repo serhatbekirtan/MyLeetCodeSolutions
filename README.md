@@ -23,3 +23,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 83 | Remove Duplicates from Sorted List | [Python](/Easy/83-RemoveDuplicatesFromSortedList/)|
 | 88 | Merge Sorted Array | [Python](/Easy/88-MergeSortedArray/)|
 | 94 | Binary Tree Inorder Traversal | [Python](/Easy/94-BinaryTreeInorderTraversal/)|
+| 100 | Same Tree | [Python](/Easy/100-SameTree/)|
