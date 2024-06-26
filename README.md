@@ -24,3 +24,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 88 | Merge Sorted Array | [Python](/Easy/88-MergeSortedArray/)|
 | 94 | Binary Tree Inorder Traversal | [Python](/Easy/94-BinaryTreeInorderTraversal/)|
 | 100 | Same Tree | [Python](/Easy/100-SameTree/)|
+| 101 | Symmetric Tree | [Python](/Easy/101-SymmetricTree/)|
