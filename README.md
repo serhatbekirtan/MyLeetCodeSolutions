@@ -25,4 +25,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 94 | Binary Tree Inorder Traversal | [Python](/Easy/94-BinaryTreeInorderTraversal/)|
 | 100 | Same Tree | [Python](/Easy/100-SameTree/)|
 | 101 | Symmetric Tree | [Python](/Easy/101-SymmetricTree/)|
-| 104 | Maximum Depth of Binary Tree | [Python](/Easy/104-MaximumDepthOfBinaryTree/)|
+| 104 | Maximum Depth of Binary Tree | [Python](/Easy/104-MaximumDepthofBinaryTree/)|
