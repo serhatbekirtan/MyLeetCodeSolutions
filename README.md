@@ -27,3 +27,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 101 | Symmetric Tree | [Python](/Easy/101-SymmetricTree/)|
 | 104 | Maximum Depth of Binary Tree | [Python](/Easy/104-MaximumDepthofBinaryTree/)|
 | 108 | Convert Sorted Array to Binary Search Tree | [Python](/Easy/108-ConvertSortedArrayToBinarySearchTree/)|
+| 110 | Balanced Binary Tree | [Python](/Easy/110-BalancedBinaryTree/)|
