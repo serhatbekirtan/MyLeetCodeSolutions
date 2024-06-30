@@ -13,17 +13,16 @@ class Solution:
         self.balanced = True
 
         def recursive(root):
-            if not root:
+            if not root or not self.balanced:
                 return 0
         
-            if root.left or root.right:
-                depth_left = 1 + recursive(root.left)
-                depth_right = 1 + recursive(root.right)
+            depth_left = recursive(root.left)
+            depth_right = recursive(root.right)
 
-                if abs(depth_left - depth_right) > 1:
-                    self.balanced= False
-                
-                return max(depth_left, depth_right)
+            if abs(depth_left - depth_right) > 1:
+                self.balanced= False
+            
+            return 1 + max(depth_left, depth_right)
         
         recursive(root)
         return self.balanced
