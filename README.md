@@ -29,3 +29,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 108 | Convert Sorted Array to Binary Search Tree | [Python](/Easy/108-ConvertSortedArrayToBinarySearchTree/)|
 | 110 | Balanced Binary Tree | [Python](/Easy/110-BalancedBinaryTree/)|
 | 111 | Minimum Depth of Binary Tree | [Python](/Easy/111-MinimumDepthofBinaryTree/)|
+| 112 | Path Sum | [Python](/Easy/112-PathSum/)|
