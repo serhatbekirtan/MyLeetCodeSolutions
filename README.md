@@ -31,3 +31,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 111 | Minimum Depth of Binary Tree | [Python](/Easy/111-MinimumDepthofBinaryTree/)|
 | 112 | Path Sum | [Python](/Easy/112-PathSum/)|
 | 118 | Pascal's Triangle | [Python](/Easy/118-PascalsTriangle/)|
+| 119 | Pascal's Triangle II | [Python](/Easy/119-PascalsTriangleII/)|
