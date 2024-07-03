@@ -34,4 +34,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 119 | Pascal's Triangle II | [Python](/Easy/119-PascalsTriangleII/)|
 | 121 | Best Time to Buy and Sell Stock | [Python](/Easy/121-BestTimetoBuyandSellStock/)|
 | 125 | Valid Palindrome | [Python](/Easy/125-ValidPalindrome/)|
-| 136 | SingleNumber | [Python](/Easy/136-SingleNumber/)|
+| 136 | Single Number | [Python](/Easy/136-SingleNumber/)|
