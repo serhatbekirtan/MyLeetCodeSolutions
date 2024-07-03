@@ -32,3 +32,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 112 | Path Sum | [Python](/Easy/112-PathSum/)|
 | 118 | Pascal's Triangle | [Python](/Easy/118-PascalsTriangle/)|
 | 119 | Pascal's Triangle II | [Python](/Easy/119-PascalsTriangleII/)|
+| 121 | Best Time to Buy and Sell Stock | [Python](/Easy/121-BestTimetoBuyandSellStock/)|
