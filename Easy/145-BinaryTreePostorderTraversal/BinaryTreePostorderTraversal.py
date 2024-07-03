@@ -22,3 +22,26 @@ class Solution:
         
         recursive(root)
         return postorder
+
+    
+    def postorderTraversalIterative(self, root: Optional[TreeNode]) -> List[int]:
+        postorder = []
+        stack1 = []
+        stack2 = []
+
+        current = root
+
+        while current or stack1:
+            while current:
+                stack1.append(current)
+                stack2.append(current)
+                current = current.right
+            
+            current = stack1.pop()
+            current = current.left
+            
+        while stack2:
+            node = stack2.pop()
+            postorder.append(node.val)
+
+        return postorder
