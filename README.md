@@ -36,3 +36,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 125 | Valid Palindrome | [Python](/Easy/125-ValidPalindrome/)|
 | 136 | Single Number | [Python](/Easy/136-SingleNumber/)|
 | 141 | LinkedListCycle | [Python](/Easy/141-LinkedListCycle/)|
+| 144 | Binary Tree Preorder Traversal | [Python](/Easy/144-BinaryTreePreorderTraversal/)| 
