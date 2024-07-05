@@ -40,3 +40,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 145 | Binary Tree Postorder Traversal | [Python](/Easy/145-BinaryTreePostorderTraversal/)|
 | 160 | Intersection Of Two Linked Lists | [Python](/Easy/160-IntersectionofTwoLinkedLists/)|
 | 168 | Excel Sheet Column Title | [Python](/Easy/168-ExcelSheetColumnTitle/)|
+| 169 | Majority Element | [Python](/Easy/169-MajorityElement/)|
