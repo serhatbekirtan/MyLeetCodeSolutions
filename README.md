@@ -42,3 +42,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 168 | Excel Sheet Column Title | [Python](/Easy/168-ExcelSheetColumnTitle/)|
 | 169 | Majority Element | [Python](/Easy/169-MajorityElement/)|
 | 171 | Excel Sheet Column Number | [Python](/Easy/171-ExcelSheetColumnNumber/)|
+| 190 | Reverse Bits | [Python](/Easy/190-ReverseBits/)|
