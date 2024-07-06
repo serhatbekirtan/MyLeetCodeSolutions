@@ -44,3 +44,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 171 | Excel Sheet Column Number | [Python](/Easy/171-ExcelSheetColumnNumber/)|
 | 190 | Reverse Bits | [Python](/Easy/190-ReverseBits/)|
 | 191 | Number of 1 Bits | [Python](/Easy/191-Numberof1Bits/)|
+| 202 | Happy Number | [Python](/Easy/202-HappyNumber/)|
