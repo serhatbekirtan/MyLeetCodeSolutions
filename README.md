@@ -46,3 +46,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 191 | Number of 1 Bits | [Python](/Easy/191-Numberof1Bits/)|
 | 202 | Happy Number | [Python](/Easy/202-HappyNumber/)|
 | 203 | Remove Linked List Elements | [Python](/Easy/203-RemoveLinkedListElements/)|
+| 205 | Isomorphic Strings | [Python](/Easy/205-IsomorphicStrings/)|
