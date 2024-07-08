@@ -48,3 +48,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 203 | Remove Linked List Elements | [Python](/Easy/203-RemoveLinkedListElements/)|
 | 205 | Isomorphic Strings | [Python](/Easy/205-IsomorphicStrings/)|
 | 206 | Reverse Linked List | [Python](/Easy/206-ReverseLinkedList/)|
+| 217 | Contains Duplicate | [Python](/Easy/217-ContainsDuplicate/)|
