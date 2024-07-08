@@ -50,3 +50,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 206 | Reverse Linked List | [Python](/Easy/206-ReverseLinkedList/)|
 | 217 | Contains Duplicate | [Python](/Easy/217-ContainsDuplicate/)|
 | 219 | Contains Duplicate II | [Python](/Easy/219-ContainsDuplicateII/)|
+| 222 | Count Complete Tree Nodes | [Python](/Easy/222-CountCompleteTreeNodes/)|
