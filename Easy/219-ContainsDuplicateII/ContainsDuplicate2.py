@@ -32,6 +32,7 @@ class Solution:
             if R - L > k:
                 window.remove(nums[L])
                 L += 1
+                
             if nums[R] in window:
                 return True
             
