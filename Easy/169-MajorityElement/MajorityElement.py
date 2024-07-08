@@ -4,10 +4,10 @@ from typing import List
 
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        hashmap = Counter(nums)
+        counts = Counter(nums)
 
         for num in nums:
-            if hashmap[num] > (len(nums)/2):
+            if counts[num] > (len(nums)/2):
                 return num
 
         
