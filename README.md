@@ -53,3 +53,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 222 | Count Complete Tree Nodes | [Python](/Easy/222-CountCompleteTreeNodes/)|
 | 225 | Implement Stack Using Queues | [Python](/Easy/225-ImplementStackUsingQueues/)|
 | 226 | Invert Binary Tree | [Python](/Easy/226-InvertBinaryTree/)|
+| 228 | Summary Ranges | [Python](/Easy/228-SummaryRanges/)|
