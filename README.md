@@ -55,3 +55,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 226 | Invert Binary Tree | [Python](/Easy/226-InvertBinaryTree/)|
 | 228 | Summary Ranges | [Python](/Easy/228-SummaryRanges/)|
 | 231 | Power of Two | [Python](/Easy/231-PowerofTwo/)|
+| 232 | Implement Queue Using Stacks | [Python](/Easy/232-ImplementQueueUsingStacks/)|
