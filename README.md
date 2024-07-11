@@ -59,3 +59,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 234 | Palindrome Linked List | [Python](/Easy/234-PalindromeLinkedList/)|
 | 242 | Valid Anagram | [Python](/Easy/242-ValidAnagram/)|
 | 252 | Meeting Rooms | [Python](/Easy/252-MeetingRooms/)|
+| 257 | Binary Tree Paths | [Python](/Easy/257-BinaryTreePaths/)|
