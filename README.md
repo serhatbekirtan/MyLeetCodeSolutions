@@ -57,3 +57,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 231 | Power of Two | [Python](/Easy/231-PowerofTwo/)|
 | 232 | Implement Queue Using Stacks | [Python](/Easy/232-ImplementQueueUsingStacks/)|
 | 234 | Palindrome Linked List | [Python](/Easy/234-PalindromeLinkedList/)|
+| 242 | Valid Anagram | [Python](/Easy/242-ValidAnagram/)|
