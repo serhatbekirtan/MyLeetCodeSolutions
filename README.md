@@ -61,3 +61,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 252 | Meeting Rooms | [Python](/Easy/252-MeetingRooms/)|
 | 257 | Binary Tree Paths | [Python](/Easy/257-BinaryTreePaths/)|
 | 258 | Add Digits | [Python](/Easy/258-AddDigits/)|
+| 263 | Ugly Number | [Python](/Easy/263-UglyNumber/)|
