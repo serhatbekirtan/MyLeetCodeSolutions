@@ -64,3 +64,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 263 | Ugly Number | [Python](/Easy/263-UglyNumber/)|
 | 268 | Missing Number | [Python](/Easy/268-MissingNumber/)|
 | 278 | First Bad Version | [Python](/Easy/278-FirstBadVersion/)|
+| 283 | Move Zeroes | [Python](/Easy/283-MoveZeroes/)|
