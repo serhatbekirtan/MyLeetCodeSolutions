@@ -1,27 +1,15 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         map = {}
-        arr_s = []
-        word = ""
+        words = s.split()
         result = ""
 
-        for char in s:
-            if char == " ":
-                arr_s.append(word)
-                word = ""
-            else:
-                word += char
-
-        arr_s.append(word)
-
-        if len(pattern) != len(arr_s):
+        if len(pattern) != len(words):
             return False
 
-        i = 0
-        for c in pattern:
-            if arr_s[i] not in map.values():
-                map[c] = arr_s[i]
-            i += 1
+        for i, char in enumerate(pattern):
+            if words[i] not in map.values():
+                map[char] = words[i]
 
         for char in pattern:
             if char not in map:
