@@ -62,3 +62,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 257 | Binary Tree Paths | [Python](/Easy/257-BinaryTreePaths/)|
 | 258 | Add Digits | [Python](/Easy/258-AddDigits/)|
 | 263 | Ugly Number | [Python](/Easy/263-UglyNumber/)|
+| 268 | Missing Number | [Python](/Easy/268-MissingNumber/)|
