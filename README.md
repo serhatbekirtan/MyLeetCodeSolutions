@@ -70,3 +70,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 303 | Range Sum Query - Immutable | [Python](/Easy/303-RangeSumQuery-Immutable/)|
 | 326 | Power of Three | [Python](/Easy/326-PowerofThree/)|
 | 338 | Counting Bits | [Python](/Easy/338-CountingBits/)|
+| 342 | Power of Four | [Python](/Easy/342-PowerofFour/)|
