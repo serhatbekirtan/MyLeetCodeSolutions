@@ -66,3 +66,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 278 | First Bad Version | [Python](/Easy/278-FirstBadVersion/)|
 | 283 | Move Zeroes | [Python](/Easy/283-MoveZeroes/)|
 | 290 | Word Pattern | [Python](/Easy/290-WordPattern/)|
+| 292 | Nim Game | [Python](/Easy/292-NimGame/)|
