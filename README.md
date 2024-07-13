@@ -67,3 +67,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 283 | Move Zeroes | [Python](/Easy/283-MoveZeroes/)|
 | 290 | Word Pattern | [Python](/Easy/290-WordPattern/)|
 | 292 | Nim Game | [Python](/Easy/292-NimGame/)|
+| 303 | Range Sum Query - Immutable | [Python](/Easy/303-RangeSumQuery-Immutable/)|
