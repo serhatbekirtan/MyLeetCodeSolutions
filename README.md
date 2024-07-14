@@ -74,3 +74,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 344 | Reverse String | [Python](/Easy/344-ReverseString/)|
 | 345 | Reverse Vowels of a String | [Python](/Easy/345-ReverseVowelsofaString/)|
 | 349 | Intersection of Two Arrays | [Python](/Easy/349-IntersectionofTwoArrays/)|
+| 350 | Intersection of Two Arrays II | [Python](/Easy/350-IntersectionofTwoArraysII/)|
