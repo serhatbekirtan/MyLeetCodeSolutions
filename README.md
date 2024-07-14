@@ -78,3 +78,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 367 | Valid Perfect Square | [Python](/Easy/367-ValidPerfectSquare/)|
 | 374 | Guess Number Higher or Lower | [Python](/Easy/374-GuessNumberHigherorLower/)|
 | 383 | Ransom Note | [Python](/Easy/383-RansomNote/)|
+| 387 | First Unique Character in a String | [Python](/Easy/387-FirstUniqueCharacterinaString/)|
