@@ -72,3 +72,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 338 | Counting Bits | [Python](/Easy/338-CountingBits/)|
 | 342 | Power of Four | [Python](/Easy/342-PowerofFour/)|
 | 344 | Reverse String | [Python](/Easy/344-ReverseString/)|
+| 345 | Reverse Vowels of a String | [Python](/Easy/345-ReverseVowelsofaString/)|
