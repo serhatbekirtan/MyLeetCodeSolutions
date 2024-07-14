@@ -76,3 +76,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 349 | Intersection of Two Arrays | [Python](/Easy/349-IntersectionofTwoArrays/)|
 | 350 | Intersection of Two Arrays II | [Python](/Easy/350-IntersectionofTwoArraysII/)|
 | 367 | Valid Perfect Square | [Python](/Easy/367-ValidPerfectSquare/)|
+| 374 | Guess Number Higher or Lower | [Python](/Easy/374-GuessNumberHigherorLower/)|
