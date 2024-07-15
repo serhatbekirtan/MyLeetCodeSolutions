@@ -79,3 +79,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 374 | Guess Number Higher or Lower | [Python](/Easy/374-GuessNumberHigherorLower/)|
 | 383 | Ransom Note | [Python](/Easy/383-RansomNote/)|
 | 387 | First Unique Character in a String | [Python](/Easy/387-FirstUniqueCharacterinaString/)|
+| 389 | Find the Difference | [Python](/Easy/389-FindtheDifference/)|
