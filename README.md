@@ -85,3 +85,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 404 | Sum of Left Leaves | [Python](/Easy/404-SumofLeftLeaves/)|
 | 405 | Convert a Number to Hexadecimal | [Python](/Easy/405-ConvertaNumbertoHexadecimal/)|
 | 409 | Longest Palindrome | [Python](/Easy/409-LongestPalindrome/)|
+| 412 | Fizz Buzz | [Python](/Easy/412-FizzBuzz/)|
