@@ -83,3 +83,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 392 | Is Subsequence | [Python](/Easy/392-IsSubsequence/)|
 | 401 | Binary Watch | [Python](/Easy/401-BinaryWatch/)|
 | 404 | Sum of Left Leaves | [Python](/Easy/404-SumofLeftLeaves/)|
+| 405 | Convert a Number to Hexadecimal | [Python](/Easy/405-ConvertaNumbertoHexadecimal/)|
