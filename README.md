@@ -81,3 +81,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 387 | First Unique Character in a String | [Python](/Easy/387-FirstUniqueCharacterinaString/)|
 | 389 | Find the Difference | [Python](/Easy/389-FindtheDifference/)|
 | 392 | Is Subsequence | [Python](/Easy/392-IsSubsequence/)|
+| 401 | Binary Watch | [Python](/Easy/401-BinaryWatch/)|
