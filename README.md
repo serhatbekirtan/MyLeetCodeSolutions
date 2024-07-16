@@ -87,3 +87,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 409 | Longest Palindrome | [Python](/Easy/409-LongestPalindrome/)|
 | 412 | Fizz Buzz | [Python](/Easy/412-FizzBuzz/)|
 | 414 | Third Maximum Number | [Python](/Easy/414-ThirdMaximumNumber/)|
+| 415 | Add Strings | [Python](/Easy/415-AddStrings/)|
