@@ -90,3 +90,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 415 | Add Strings | [Python](/Easy/415-AddStrings/)|
 | 434 | Number of Segments in a String | [Python](/Easy/434-NumberofSegmentsinaString/)|
 | 441 | Arranging Coins | [Python](/Easy/441-ArrangingCoins/)|
+| 704 | Binary Search | [Python](/Easy/704-BinarySearch/)|
