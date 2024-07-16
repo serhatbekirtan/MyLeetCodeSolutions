@@ -89,3 +89,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 414 | Third Maximum Number | [Python](/Easy/414-ThirdMaximumNumber/)|
 | 415 | Add Strings | [Python](/Easy/415-AddStrings/)|
 | 434 | NumberofSegmentsinaString | [Python](/Easy/434-NumberofSegmentsinaString/)|
+| 441 | Arranging Coins | [Python](/Easy/441-ArrangingCoins/)|
