@@ -88,5 +88,5 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 412 | Fizz Buzz | [Python](/Easy/412-FizzBuzz/)|
 | 414 | Third Maximum Number | [Python](/Easy/414-ThirdMaximumNumber/)|
 | 415 | Add Strings | [Python](/Easy/415-AddStrings/)|
-| 434 | NumberofSegmentsinaString | [Python](/Easy/434-NumberofSegmentsinaString/)|
+| 434 | Number of Segments in a String | [Python](/Easy/434-NumberofSegmentsinaString/)|
 | 441 | Arranging Coins | [Python](/Easy/441-ArrangingCoins/)|
