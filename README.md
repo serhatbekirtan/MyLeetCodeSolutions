@@ -93,3 +93,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 543 | Diameter of Binary Tree | [Python](/Easy/543-DiameterofBinaryTree/)|
 | 572 | Subtree of Another Tree | [Python](/Easy/572-SubtreeofAnotherTree/)|
 | 704 | Binary Search | [Python](/Easy/704-BinarySearch/)|
+| 746 | Min Cost Climbing Stairs | [Python](/Easy/746-MinCostClimbingStairs/)|
