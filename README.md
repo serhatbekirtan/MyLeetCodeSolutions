@@ -96,3 +96,9 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 704 | Binary Search | [Python](/Easy/704-BinarySearch/)|
 | 746 | Min Cost Climbing Stairs | [Python](/Easy/746-MinCostClimbingStairs/)|
 | 1046 | Last Stone Weight | [Python](/Easy/1046-LastStoneWeight/)|
+
+ ## Medium
+
+| # |  Title  | Solution |
+|---|  -----  | -------- |
+| 2 | Add Two Numbers | [Python](/Medium/2-AddTwoNumbers/)|
