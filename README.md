@@ -102,3 +102,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | # |  Title  | Solution |
 |---|  -----  | -------- |
 | 2 | Add Two Numbers | [Python](/Medium/2-AddTwoNumbers/)|
+| 3 | Longest Substring Without Repeating Characters | [Python](/Medium/3-LongestSubstringWithoutRepeatingCharacters/)|
