@@ -31,6 +31,7 @@ class Solution:
                 L += 1
             
             hashset.add(s[R])
-            result = max(result, R - L + 1)
+            # result = max(result, R - L + 1) is also viable
+            result = max(result, len(hashset))
 
         return result
