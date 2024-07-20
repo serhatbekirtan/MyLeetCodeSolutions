@@ -30,9 +30,3 @@ class Solution:
             checkPalindrome(i, i + 1)
 
         return self.longest
-    
-
-
-sol = Solution()
-ex = "zhhhhdgccgdhanx"
-print(sol.longestPalindromeExpandMid(s=ex))
