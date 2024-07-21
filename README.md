@@ -104,3 +104,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 2 | Add Two Numbers | [Python](/Medium/2-AddTwoNumbers/)|
 | 3 | Longest Substring Without Repeating Characters | [Python](/Medium/3-LongestSubstringWithoutRepeatingCharacters/)|
 | 5 | Longest Palindromic Substring | [Python](/Medium/5-LongestPalindromicSubstring/)|
+| 6 | ZigZag Conversion | [Python](/Medium/6-ZigzagConversion/)|
