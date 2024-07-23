@@ -21,7 +21,7 @@ class Solution:
         while i < len(s):
                 count = ""
                 
-                while (i < len(s)) and (s[i] in digits) and s[i] != "#":
+                while (i < len(s)) and (s[i] in digits) and (s[i] != "#"):
                     count += s[i]
                     i += 1
                 
