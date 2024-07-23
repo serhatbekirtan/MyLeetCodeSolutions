@@ -107,5 +107,6 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 5 | Longest Palindromic Substring | [Python](/Medium/5-LongestPalindromicSubstring/)|
 | 6 | ZigZag Conversion | [Python](/Medium/6-ZigzagConversion/)|
 | 7 | Reverse Integer | [Python](/Medium/7-ReverseInteger/)|
+| 8 | String to Integer (atoi) | [Python](/Medium/8-StringtoInteger(atoi)/)|
 | 102 | Binary Tree Level Order Traversal | [Python](/Medium/102-BinaryTreeLevelOrderTraversal/)|
 | 271 | String Encode and Decode | [Python](/Medium/271-StringEncodeandDecode/)|
