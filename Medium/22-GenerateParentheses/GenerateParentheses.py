@@ -5,29 +5,6 @@ class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         result = []
 
-        def backtrack(num, stack, string):
-            if not stack and len(string) == n * 2:
-                result.append(string)
-                return
-
-            if len(stack) > 1:
-                if stack[-1] == ")" and stack[-2] == "(":
-                    stack.pop()
-                    stack.pop()
-
-            for i in range(num):
-                backtrack(num - 1, stack.append("("), string + "(")
-                backtrack(num - 1, stack.append(")"), string + ")")
-            
-
-        backtrack(n, [], "")
-
-        return result
-    
-
-    def generateParenthesis(self, n: int) -> List[str]:
-        result = []
-
         def backtrack(open, close, string):
             if open + close == n * 2:
                 result.append(string)
