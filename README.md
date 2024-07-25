@@ -117,4 +117,5 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 102 | Binary Tree Level Order Traversal | [Python](/Medium/102-BinaryTreeLevelOrderTraversal/)|
 | 167 | Two Sum II - Input Array Is Sorted | [Python](/Medium/167-TwoSumII-InputArrayIsSorted/)|
 | 271 | String Encode and Decode | [Python](/Medium/271-StringEncodeandDecode/)|
+| 912 | Sort an Array | [Python](/Medium/912-SortanArray/)|
 | 2191 | Sort the Jumbled Numbers | [Python](/Medium/2191-SorttheJumbledNumbers/)|
