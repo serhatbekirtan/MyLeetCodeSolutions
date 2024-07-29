@@ -7,7 +7,6 @@ class Solution:
         result = []
 
         def backtrack(i: int, cur: List[int], total: int):
-            print(cur)
             if total == target:
                 result.append(cur.copy())
                 return
