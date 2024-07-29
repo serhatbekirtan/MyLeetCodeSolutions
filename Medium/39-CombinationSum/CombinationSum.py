@@ -21,10 +21,3 @@ class Solution:
 
         backtrack(0, [], 0)
         return result
-
-    
-
-sol = Solution()
-candidates = [2,3,5]
-target = 8
-print(sol.combinationSum(candidates=candidates, target=target))
