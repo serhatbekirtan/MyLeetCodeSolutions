@@ -135,5 +135,6 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 912 | Sort an Array | [Python](/Medium/912-SortanArray/)|
 | 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [Python](/Medium/1334-FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance/)|
 | 1395 | Count Number of Teams | [Python](/Medium/1395-CountNumberofTeams/)|
+| 1653 | Minimum Deletions to Make String Balanced | [Python](/Medium/1653-MinimumDeletionstoMakeStringBalanced/)|
 | 2191 | Sort the Jumbled Numbers | [Python](/Medium/2191-SorttheJumbledNumbers/)|
 | 2976 | Minimum Cost to Convert String I | [Python](/Medium/2976-MinimumCosttoConvertStringI/)|
