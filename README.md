@@ -125,6 +125,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 43 | Multiply Strings | [Python](/Medium/43-MultiplyStrings/)|
 | 49 | Group Anagrams | [Python](/Medium/49-GroupAnagrams/)|
 | 102 | Binary Tree Level Order Traversal | [Python](/Medium/102-BinaryTreeLevelOrderTraversal/)|
+| 128 | Longest Consecutive Sequence | [Python](/Medium/128-LongestConsecutiveSequence/)|
 | 150 | Evaluate Reverse Polish Notation | [Python](/Medium/150-EvaluateReversePolishNotation/)|
 | 155 | Min Stack | [Python](/Medium/155-MinStack/)|
 | 167 | Two Sum II - Input Array Is Sorted | [Python](/Medium/167-TwoSumII-InputArrayIsSorted/)|
