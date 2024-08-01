@@ -137,6 +137,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 739 | Daily Temperatures | [Python](/Medium/739-DailyTemperatures/)|
 | 853 | Car Fleet | [Python](/Medium/853-CarFleet/)|
 | 912 | Sort an Array | [Python](/Medium/912-SortanArray/)|
+| 1105 | Filling Bookcase Shelves | [Python](/Medium/1105-FillingBookcaseShelves/)|
 | 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [Python](/Medium/1334-FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance/)|
 | 1395 | Count Number of Teams | [Python](/Medium/1395-CountNumberofTeams/)|
 | 1653 | Minimum Deletions to Make String Balanced | [Python](/Medium/1653-MinimumDeletionstoMakeStringBalanced/)|
