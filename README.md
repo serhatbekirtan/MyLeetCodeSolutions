@@ -130,6 +130,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 102 | Binary Tree Level Order Traversal | [Python](/Medium/102-BinaryTreeLevelOrderTraversal/)|
 | 128 | Longest Consecutive Sequence | [Python](/Medium/128-LongestConsecutiveSequence/)|
 | 150 | Evaluate Reverse Polish Notation | [Python](/Medium/150-EvaluateReversePolishNotation/)|
+| 153 | Find Minimum in Rotated Sorted Array | [Python](/Medium/153-FindMinimuminRotatedSortedArray/)|
 | 155 | Min Stack | [Python](/Medium/155-MinStack/)|
 | 167 | Two Sum II - Input Array Is Sorted | [Python](/Medium/167-TwoSumII-InputArrayIsSorted/)|
 | 238 | Product of Array Except Self | [Python](/Medium/238-ProductofArrayExceptSelf/)|
