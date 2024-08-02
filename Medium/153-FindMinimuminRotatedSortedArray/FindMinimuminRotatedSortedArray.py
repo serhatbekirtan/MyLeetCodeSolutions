@@ -17,7 +17,6 @@ class Solution:
                 L = mid + 1
             else:
                 minNum = nums[mid]
-                print(minNum)
                 R = mid - 1
         
         return minNum
