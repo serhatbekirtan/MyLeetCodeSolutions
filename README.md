@@ -139,6 +139,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 347 | Top K Frequent Elements | [Python](/Medium/347-TopKFrequentElements/)|
 | 371 | Sum of Two Integers | [Python](/Medium/371-SumofTwoIntegers/)|
 | 424 | Longest Repeating Character Replacement | [Python](/Medium/424-LongestRepeatingCharacterReplacement/)|
+| 567 | Permutation in String | [Python](/Medium/567-PermutationinString/)|
 | 739 | Daily Temperatures | [Python](/Medium/739-DailyTemperatures/)|
 | 853 | Car Fleet | [Python](/Medium/853-CarFleet/)|
 | 875 | Koko Eating Bananas | [Python](/Medium/875-KokoEatingBananas/)|
