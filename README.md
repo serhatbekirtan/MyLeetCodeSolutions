@@ -98,6 +98,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 1046 | Last Stone Weight | [Python](/Easy/1046-LastStoneWeight/)|
 | 1460 | Make Two Arrays Equal By Reversing Subarrays | [Python](/Easy/1460-MakeTwoArraysEqualByReversingSubarrays/)|
 | 1636 | Sort Array by Increasing Frequency | [Python](/Easy/1636-SortArraybyIncreasingFrequency/)|
+| 2053 | Kth Distinct String in an Array | [Python](/Easy/2053-KthDistinctStringinanArray/)|
 | 2678 | Number of Senior Citizens | [Python](/Easy/2678-NumberofSeniorCitizens/)|
 
  ## Medium
