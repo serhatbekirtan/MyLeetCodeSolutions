@@ -133,6 +133,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 128 | Longest Consecutive Sequence | [Python](/Medium/128-LongestConsecutiveSequence/)|
 | 138 | Copy List with Random Pointer | [Python](/Medium/138-CopyListwithRandomPointer/)|
 | 143 | Reorder List | [Python](/Medium/143-ReorderList/)|
+| 146 | LRU Cache | [Python](/Medium/146-LRUCache/)|
 | 150 | Evaluate Reverse Polish Notation | [Python](/Medium/150-EvaluateReversePolishNotation/)|
 | 153 | Find Minimum in Rotated Sorted Array | [Python](/Medium/153-FindMinimuminRotatedSortedArray/)|
 | 155 | Min Stack | [Python](/Medium/155-MinStack/)|
