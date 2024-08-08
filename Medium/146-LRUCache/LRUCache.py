@@ -29,7 +29,6 @@ class LRUCache:
             self.removeNode(self.cache[key])
             self.insertNode(self.cache[key])
             return self.cache[key].val
-        
         return -1
 
     def put(self, key: int, value: int) -> None:
@@ -43,8 +42,3 @@ class LRUCache:
             lru = self.left.next
             self.removeNode(lru)
             del self.cache[lru.key]
-
-# Your LRUCache object will be instantiated and called as such:
-# obj = LRUCache(capacity)
-# param_1 = obj.get(key)
-# obj.put(key,value)
