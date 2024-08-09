@@ -129,6 +129,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 49 | Group Anagrams | [Python](/Medium/49-GroupAnagrams/)|
 | 50 | Pow(x,n) | [Python](/Medium/50-Pow(x,n)/)|
 | 74 | Search a 2D Matrix | [Python](/Medium/74-Searcha2DMatrix/)|
+| 98 | Validate Binary Search Tree | [Python](/Medium/98-ValidateBinarySearchTree/)|
 | 102 | Binary Tree Level Order Traversal | [Python](/Medium/102-BinaryTreeLevelOrderTraversal/)|
 | 128 | Longest Consecutive Sequence | [Python](/Medium/128-LongestConsecutiveSequence/)|
 | 138 | Copy List with Random Pointer | [Python](/Medium/138-CopyListwithRandomPointer/)|
