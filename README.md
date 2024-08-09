@@ -132,6 +132,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 98 | Validate Binary Search Tree | [Python](/Medium/98-ValidateBinarySearchTree/)|
 | 102 | Binary Tree Level Order Traversal | [Python](/Medium/102-BinaryTreeLevelOrderTraversal/)|
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | [Python](/Medium/105-ConstructBinaryTreefromPreorderandInorderTraversal/)|
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | [Python](/Medium/106-ConstructBinaryTreefromInorderandPostorderTraversal/)|
 | 128 | Longest Consecutive Sequence | [Python](/Medium/128-LongestConsecutiveSequence/)|
 | 138 | Copy List with Random Pointer | [Python](/Medium/138-CopyListwithRandomPointer/)|
 | 143 | Reorder List | [Python](/Medium/143-ReorderList/)|
