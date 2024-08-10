@@ -44,7 +44,3 @@ class Solution:
                     regionCount += 1
         
         return regionCount
-    
-
-sol = Solution()
-print(sol.regionsBySlashes(grid=["/\\","\\/"]))
