@@ -158,6 +158,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 885 | Spiral Matrix III | [Python](/Medium/885-SpiralMatrixIII/)|
 | 912 | Sort an Array | [Python](/Medium/912-SortanArray/)|
 | 959 | Regions Cut By Slashes | [Python](/Medium/959-RegionsCutBySlashes/)|
+| 973 | K Closest Points to Origin | [Python](/Medium/973-KClosestPointstoOrigin/)|
 | 981 | Time Based Key-Value Store | [Python](/Medium/981-TimeBasedKey-ValueStore/)|
 | 1105 | Filling Bookcase Shelves | [Python](/Medium/1105-FillingBookcaseShelves/)|
 | 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [Python](/Medium/1334-FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance/)|
