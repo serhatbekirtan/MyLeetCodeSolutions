@@ -153,6 +153,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 371 | Sum of Two Integers | [Python](/Medium/371-SumofTwoIntegers/)|
 | 424 | Longest Repeating Character Replacement | [Python](/Medium/424-LongestRepeatingCharacterReplacement/)|
 | 567 | Permutation in String | [Python](/Medium/567-PermutationinString/)|
+| 621 | Task Scheduler | [Python](/Medium/621-TaskScheduler/)|
 | 739 | Daily Temperatures | [Python](/Medium/739-DailyTemperatures/)|
 | 840 | Magic Squares In Grid | [Python](/Medium/840-MagicSquaresInGrid/)|
 | 853 | Car Fleet | [Python](/Medium/853-CarFleet/)|
