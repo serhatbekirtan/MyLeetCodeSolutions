@@ -3,7 +3,6 @@ import heapq
 from typing import List
 
 class Twitter:
-
     def __init__(self):
         self.time = 0
         self.followDatabase = defaultdict(set)
@@ -29,7 +28,7 @@ class Twitter:
             count += 1
         return res
 
-    """
+    """ More efficient way to fetch feeds.
      def getNewsFeed(self, userId: int) -> List[int]:
         res = []
         heap = []
