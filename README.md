@@ -95,6 +95,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 703 | Kth Largest Element in a Stream | [Python](/Easy/703-KthLargestElementinaStream/)|
 | 704 | Binary Search | [Python](/Easy/704-BinarySearch/)|
 | 746 | Min Cost Climbing Stairs | [Python](/Easy/746-MinCostClimbingStairs/)|
+| 860 | Lemonade Change | [Python](/Easy/860-LemonadeChange/)|
 | 1046 | Last Stone Weight | [Python](/Easy/1046-LastStoneWeight/)|
 | 1460 | Make Two Arrays Equal By Reversing Subarrays | [Python](/Easy/1460-MakeTwoArraysEqualByReversingSubarrays/)|
 | 1636 | Sort Array by Increasing Frequency | [Python](/Easy/1636-SortArraybyIncreasingFrequency/)|
