@@ -157,6 +157,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 424 | Longest Repeating Character Replacement | [Python](/Medium/424-LongestRepeatingCharacterReplacement/)|
 | 567 | Permutation in String | [Python](/Medium/567-PermutationinString/)|
 | 621 | Task Scheduler | [Python](/Medium/621-TaskScheduler/)|
+| 624 | Maximum Distance in Arrays | [Python](/Medium/624-MaximumDistanceinArrays/)|
 | 739 | Daily Temperatures | [Python](/Medium/739-DailyTemperatures/)|
 | 840 | Magic Squares In Grid | [Python](/Medium/840-MagicSquaresInGrid/)|
 | 853 | Car Fleet | [Python](/Medium/853-CarFleet/)|
