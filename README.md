@@ -174,6 +174,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 1448 | Count Good Nodes in Binary Tree | [Python](/Medium/1448-CountGoodNodesinBinaryTree/)|
 | 1508 | Range Sum of Sorted Subarray Sums | [Python](/Medium/1508-RangeSumofSortedSubarraySums/)|
 | 1653 | Minimum Deletions to Make String Balanced | [Python](/Medium/1653-MinimumDeletionstoMakeStringBalanced/)|
+| 1937 | Maximum Number of Points with Cost | [Python](/Medium/1937-MaximumNumberofPointswithCost/)|
 | 2191 | Sort the Jumbled Numbers | [Python](/Medium/2191-SorttheJumbledNumbers/)|
 | 2134 | Minimum Swaps to Group All 1's Together II | [Python](/Medium/2134-MinimumSwapstoGroupAll1'sTogetherII/)|
 | 2976 | Minimum Cost to Convert String I | [Python](/Medium/2976-MinimumCosttoConvertStringI/)|
