@@ -150,6 +150,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 230 | Kth Smallest Element in a BST | [Python](/Medium/230-KthSmallestElementinaBST/)|
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [Python](/Medium/235-LowestCommonAncestorofaBinarySearchTree/)|
 | 238 | Product of Array Except Self | [Python](/Medium/238-ProductofArrayExceptSelf/)|
+| 264 | Ugly Number II | [Python](/Medium/264-UglyNumberII/)|
 | 271 | String Encode and Decode | [Python](/Medium/271-StringEncodeandDecode/)|
 | 287 | Find the Duplicate Number | [Python](/Medium/287-FindtheDuplicateNumber/)|
 | 347 | Top K Frequent Elements | [Python](/Medium/347-TopKFrequentElements/)|
