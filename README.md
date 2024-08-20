@@ -165,6 +165,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 840 | Magic Squares In Grid | [Python](/Medium/840-MagicSquaresInGrid/)|
 | 853 | Car Fleet | [Python](/Medium/853-CarFleet/)|
 | 875 | Koko Eating Bananas | [Python](/Medium/875-KokoEatingBananas/)|
+| 877 | Stone Game | [Python](/Medium/877-StoneGame/)|
 | 885 | Spiral Matrix III | [Python](/Medium/885-SpiralMatrixIII/)|
 | 912 | Sort an Array | [Python](/Medium/912-SortanArray/)|
 | 959 | Regions Cut By Slashes | [Python](/Medium/959-RegionsCutBySlashes/)|
