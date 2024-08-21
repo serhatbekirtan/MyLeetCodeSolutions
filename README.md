@@ -172,6 +172,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 973 | K Closest Points to Origin | [Python](/Medium/973-KClosestPointstoOrigin/)|
 | 981 | Time Based Key-Value Store | [Python](/Medium/981-TimeBasedKey-ValueStore/)|
 | 1105 | Filling Bookcase Shelves | [Python](/Medium/1105-FillingBookcaseShelves/)|
+| 1140 | Stone Game II | [Python](/Medium/1140-StoneGameII/)|
 | 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [Python](/Medium/1334-FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance/)|
 | 1395 | Count Number of Teams | [Python](/Medium/1395-CountNumberofTeams/)|
 | 1448 | Count Good Nodes in Binary Tree | [Python](/Medium/1448-CountGoodNodesinBinaryTree/)|
