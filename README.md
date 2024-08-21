@@ -90,7 +90,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 415 | Add Strings | [Python](/Easy/415-AddStrings/)|
 | 434 | Number of Segments in a String | [Python](/Easy/434-NumberofSegmentsinaString/)|
 | 441 | Arranging Coins | [Python](/Easy/441-ArrangingCoins/)|
-| 448 | Find All Numbers Dissappeared in an Array | [Python](/Easy/448-FindAllNumberDissappearedinanArray/)|
+| 448 | Find All Numbers Dissappeared in an Array | [Python](/Easy/448-FindAllNumbersDissappearedinanArray/)|
 | 543 | Diameter of Binary Tree | [Python](/Easy/543-DiameterofBinaryTree/)|
 | 572 | Subtree of Another Tree | [Python](/Easy/572-SubtreeofAnotherTree/)|
 | 703 | Kth Largest Element in a Stream | [Python](/Easy/703-KthLargestElementinaStream/)|
