@@ -97,6 +97,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 476 | Number Complement | [Python](/Easy/476-NumberComplement/)|
 | 543 | Diameter of Binary Tree | [Python](/Easy/543-DiameterofBinaryTree/)|
 | 572 | Subtree of Another Tree | [Python](/Easy/572-SubtreeofAnotherTree/)|
+| 590 | N-ary Tree Postorder Traversal | [Python](/Easy/590-N-aryTreePostorderTraversal/)|
 | 703 | Kth Largest Element in a Stream | [Python](/Easy/703-KthLargestElementinaStream/)|
 | 704 | Binary Search | [Python](/Easy/704-BinarySearch/)|
 | 746 | Min Cost Climbing Stairs | [Python](/Easy/746-MinCostClimbingStairs/)|
