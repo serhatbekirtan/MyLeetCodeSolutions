@@ -5,21 +5,23 @@ from typing import List
 
 class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start_node: int, end_node: int) -> float:
-        p, g = [0.0] * n, defaultdict(list)
-        for index, (a, b) in enumerate(edges):
-            g[a].append((b, index))
-            g[b].append((a, index))
+        adj = defaultdict(list)
+        for edge, prob in zip(edges, succProb):
+            adj[edge[0]].append([edge[1], prob])
+            adj[edge[1]].append([edge[0], prob])
 
-        p[start_node] = 1.0
-        heap = [(-p[start_node], start_node)]    
-        while heap:
-            prob, cur = heapq.heappop(heap)
-            if cur == end_node:
-                return -prob
+        maxHeap = [[-1, start_node]]
+        visit = {}
 
-            for neighbor, index in g.get(cur, []):
-                if -prob * succProb[index] > p[neighbor]:
-                    p[neighbor] = -prob * succProb[index]
-                    heapq.heappush(heap, (-p[neighbor], neighbor))
-                    
-        return 0.0
+        while maxHeap:
+            prob1, node1 = heapq.heappop(maxHeap)
+            visit[node1] = -prob1
+
+            if node1 == end_node:
+                return -prob1
+
+            for node2, prob2 in adj[node1]:
+                if node2 not in visit:
+                    heapq.heappush(maxHeap, [-abs(prob1 * prob2), node2])
+            
+        return 0
