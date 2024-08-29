@@ -186,6 +186,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 1508 | Range Sum of Sorted Subarray Sums | [Python](/Medium/1508-RangeSumofSortedSubarraySums/)|
 | 1514 | Path with Maximum Probability | [Python](/Medium/1514-PathwithMaximumProbability/)|
 | 1653 | Minimum Deletions to Make String Balanced | [Python](/Medium/1653-MinimumDeletionstoMakeStringBalanced/)|
+| 1905 | Count Sub Islands | [Python](/Medium/1905-CountSubIslands/)|
 | 1937 | Maximum Number of Points with Cost | [Python](/Medium/1937-MaximumNumberofPointswithCost/)|
 | 2191 | Sort the Jumbled Numbers | [Python](/Medium/2191-SorttheJumbledNumbers/)|
 | 2134 | Minimum Swaps to Group All 1's Together II | [Python](/Medium/2134-MinimumSwapstoGroupAll1'sTogetherII/)|
