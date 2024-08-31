@@ -135,6 +135,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 39 | Combination Sum | [Python](/Medium/39-CombinationSum/)|
 | 40 | Combination Sum II | [Python](/Medium/40-CombinationSumII/)|
 | 43 | Multiply Strings | [Python](/Medium/43-MultiplyStrings/)|
+| 48 | Rotate Image | [Python](/Medium/48-RotateImage/)|
 | 49 | Group Anagrams | [Python](/Medium/49-GroupAnagrams/)|
 | 50 | Pow(x,n) | [Python](/Medium/50-Pow(x,n)/)|
 | 56 | Merge Intervals | [Python](/Medium/56-MergeIntervals/)|
