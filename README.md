@@ -139,6 +139,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 48 | Rotate Image | [Python](/Medium/48-RotateImage/)|
 | 49 | Group Anagrams | [Python](/Medium/49-GroupAnagrams/)|
 | 50 | Pow(x,n) | [Python](/Medium/50-Pow(x,n)/)|
+| 54 | Spiral Matrix | [Python](/Medium/54-SpiralMatrix/)|
 | 56 | Merge Intervals | [Python](/Medium/56-MergeIntervals/)|
 | 57 | Insert Interval | [Python](/Medium/57-InsertInterval/)|
 | 74 | Search a 2D Matrix | [Python](/Medium/74-Searcha2DMatrix/)|
