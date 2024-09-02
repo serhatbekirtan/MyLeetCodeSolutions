@@ -96,6 +96,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 461 | Hamming Distance | [Python](/Easy/461-HammingDistance/)|
 | 463 | Island Perimeter | [Python](/Easy/463-IslandPerimeter/)|
 | 476 | Number Complement | [Python](/Easy/476-NumberComplement/)|
+| 482 | License Key Formatting | [Python](/Easy/482-LicenseKeyFormatting/)|
 | 543 | Diameter of Binary Tree | [Python](/Easy/543-DiameterofBinaryTree/)|
 | 572 | Subtree of Another Tree | [Python](/Easy/572-SubtreeofAnotherTree/)|
 | 590 | N-ary Tree Postorder Traversal | [Python](/Easy/590-N-aryTreePostorderTraversal/)|
