@@ -180,6 +180,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 739 | Daily Temperatures | [Python](/Medium/739-DailyTemperatures/)|
 | 840 | Magic Squares In Grid | [Python](/Medium/840-MagicSquaresInGrid/)|
 | 853 | Car Fleet | [Python](/Medium/853-CarFleet/)|
+| 874 | Walking Robot Simulation | [Python](/Medium/874-WalkingRobotSimulation/)|
 | 875 | Koko Eating Bananas | [Python](/Medium/875-KokoEatingBananas/)|
 | 877 | Stone Game | [Python](/Medium/877-StoneGame/)|
 | 885 | Spiral Matrix III | [Python](/Medium/885-SpiralMatrixIII/)|
