@@ -192,6 +192,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 1105 | Filling Bookcase Shelves | [Python](/Medium/1105-FillingBookcaseShelves/)|
 | 1140 | Stone Game II | [Python](/Medium/1140-StoneGameII/)|
 | 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [Python](/Medium/1334-FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance/)|
+| 1367 | Linked List in Binary Tree | [Python](/Medium/1367-LinkedListinBinaryTree/)|
 | 1395 | Count Number of Teams | [Python](/Medium/1395-CountNumberofTeams/)|
 | 1448 | Count Good Nodes in Binary Tree | [Python](/Medium/1448-CountGoodNodesinBinaryTree/)|
 | 1508 | Range Sum of Sorted Subarray Sums | [Python](/Medium/1508-RangeSumofSortedSubarraySums/)|
