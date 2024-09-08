@@ -44,3 +44,22 @@ class Solution:
             return linkedStr in pathStr
             
         return traverse(root)
+    
+
+    def isSubPath(self, head: Optional[ListNode], root: Optional[TreeNode]) -> bool:
+        if not root:
+            return False
+        
+        if self.isSame(head, root):
+            return True
+        
+        return self.isSubPath(head, root.left) or self.isSubPath(head, root.right)
+
+    def isSame(self, listNode: Optional[ListNode], treeNode: Optional[TreeNode]) -> bool:
+        if not listNode:
+            return True
+
+        if not treeNode or listNode.val != treeNode.val:
+            return False
+        
+        return self.isSame(listNode.next, treeNode.left) or self.isSame(listNode.next, treeNode.right)
