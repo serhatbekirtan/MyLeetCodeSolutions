@@ -177,6 +177,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 621 | Task Scheduler | [Python](/Medium/621-TaskScheduler/)|
 | 624 | Maximum Distance in Arrays | [Python](/Medium/624-MaximumDistanceinArrays/)|
 | 650 | 2 Keys Keyboard | [Python](/Medium/650-2KeysKeyboard/)|
+| 725 | Split Linked List in Parts | [Python](/Medium/725-SplitLinkedListinParts/)|
 | 739 | Daily Temperatures | [Python](/Medium/739-DailyTemperatures/)|
 | 840 | Magic Squares In Grid | [Python](/Medium/840-MagicSquaresInGrid/)|
 | 853 | Car Fleet | [Python](/Medium/853-CarFleet/)|
