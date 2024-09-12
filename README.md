@@ -107,6 +107,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 1046 | Last Stone Weight | [Python](/Easy/1046-LastStoneWeight/)|
 | 1460 | Make Two Arrays Equal By Reversing Subarrays | [Python](/Easy/1460-MakeTwoArraysEqualByReversingSubarrays/)|
 | 1636 | Sort Array by Increasing Frequency | [Python](/Easy/1636-SortArraybyIncreasingFrequency/)|
+| 1684 | Count the Number of Consistent Strings | [Python](/Easy/1684-CounttheNumberofConsistentStrings/)|
 | 1945 | Sum of Digits of String After Convert | [Python](/Easy/1945-SumofDigitsofStringAfterConvert/)|
 | 2022 | Convert 1D Array Into 2D Array | [Python](/Easy/2022-Convert1DArrayInto2DArray/)|
 | 2053 | Kth Distinct String in an Array | [Python](/Easy/2053-KthDistinctStringinanArray/)|
