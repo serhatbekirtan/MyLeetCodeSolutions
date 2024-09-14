@@ -209,6 +209,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 2134 | Minimum Swaps to Group All 1's Together II | [Python](/Medium/2134-MinimumSwapstoGroupAll1'sTogetherII/)|
 | 2191 | Sort the Jumbled Numbers | [Python](/Medium/2191-SorttheJumbledNumbers/)|
 | 2326 | Spiral Matrix IV | [Python](/Medium/2326-SpiralMatrixIV/)|
+| 2419 | Longest Subarray With Maximum Bitwise AND | [Python](/Medium/2419-LongestSubarrayWithMaximumBitwiseAND/)|
 | 2807 | Insert Greatest Common Divisors in Linked List | [Python](/Medium/2807-InsertGreatestCommonDivisorsinLinkedList/)|
 | 2976 | Minimum Cost to Convert String I | [Python](/Medium/2976-MinimumCosttoConvertStringI/)|
 | 3016 | Minimum Number of Pushes to Type Word II | [Python](/Medium/3016-MinimumNumberofPushestoTypeWordII/)|
