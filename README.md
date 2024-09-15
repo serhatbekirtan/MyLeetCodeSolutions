@@ -197,6 +197,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 1310 | XOR Queries of a Subarray | [Python](/Medium/1310-XORQueriesofaSubarray/)|
 | 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [Python](/Medium/1334-FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance/)|
 | 1367 | Linked List in Binary Tree | [Python](/Medium/1367-LinkedListinBinaryTree/)|
+| 1371 | Find the Longest Substring Containing Vowels in Even Counts | [Python](/Medium/1371-FindtheLongestSubstringContainingVowelsinEvenCounts/)|
 | 1395 | Count Number of Teams | [Python](/Medium/1395-CountNumberofTeams/)|
 | 1448 | Count Good Nodes in Binary Tree | [Python](/Medium/1448-CountGoodNodesinBinaryTree/)|
 | 1508 | Range Sum of Sorted Subarray Sums | [Python](/Medium/1508-RangeSumofSortedSubarraySums/)|
