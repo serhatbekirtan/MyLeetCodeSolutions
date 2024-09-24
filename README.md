@@ -220,6 +220,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 2807 | Insert Greatest Common Divisors in Linked List | [Python](/Medium/2807-InsertGreatestCommonDivisorsinLinkedList/)|
 | 2976 | Minimum Cost to Convert String I | [Python](/Medium/2976-MinimumCosttoConvertStringI/)|
 | 3016 | Minimum Number of Pushes to Type Word II | [Python](/Medium/3016-MinimumNumberofPushestoTypeWordII/)|
+| 3043 | Find the Length of the Longest Common Prefix | [Python](/Medium/3043-FindtheLengthoftheLongestCommonPrefix/)|
 | 3217 | Delete Nodes From Linked List Present in Array | [Python](/Medium/3217-DeleteNodesFromLinkedListPresentinArray/)|
 
  ## Hard
