@@ -233,3 +233,4 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 664 | Strange Printer | [Python](/Hard/664-StrangePrinter/)|
 | 719 | Find K-th Smallest Pair Distance | [Python](/Hard/719-FindKthSmallestPairDistance/)|
 | 1568 | Minimum Number of Days to Disconnect Island | [Python](/Hard/1568-MinimumNumberofDaystoDisconnectIsland/)|
+| 2416 | Sum of Prefix Scores of Strings | [Python](/Hard/2416-SumofPrefixScoresofStrings/)|
