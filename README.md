@@ -183,6 +183,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 567 | Permutation in String | [Python](/Medium/567-PermutationinString/)|
 | 621 | Task Scheduler | [Python](/Medium/621-TaskScheduler/)|
 | 624 | Maximum Distance in Arrays | [Python](/Medium/624-MaximumDistanceinArrays/)|
+| 641 | Design Circular Deque | [Python](/Medium/641-DesignCircularDeque/)|
 | 650 | 2 Keys Keyboard | [Python](/Medium/650-2KeysKeyboard/)|
 | 725 | Split Linked List in Parts | [Python](/Medium/725-SplitLinkedListinParts/)|
 | 729 | My Calendar I | [Python](/Medium/729-MyCalendarI/)|
