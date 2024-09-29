@@ -232,6 +232,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 |---|  -----  | -------- |
 | 214 | Shortest Palindrome | [Python](/Hard/214-ShortestPalindrome/)|
 | 273 | Integer to English Words | [Python](/Hard/273-IntegertoEnglishWords/)|
+| 432 | All O'one Data Structure | [Python](/Hard/432-AllO'oneDataStructure/)|
 | 440 | K-th Smallest in Lexicographical Order | [Python](/Hard/440-K-thSmallestinLexicographicalOrder/)|
 | 664 | Strange Printer | [Python](/Hard/664-StrangePrinter/)|
 | 719 | Find K-th Smallest Pair Distance | [Python](/Hard/719-FindKthSmallestPairDistance/)|
