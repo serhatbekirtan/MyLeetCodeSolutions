@@ -106,7 +106,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 860 | Lemonade Change | [Python](/Easy/860-LemonadeChange/)|
 | 884 | Uncommon Words from Two Sentences | [Python](/Easy/884-UncommonWordsfromTwoSentences/)|
 | 1046 | Last Stone Weight | [Python](/Easy/1046-LastStoneWeight/)|
-| 1331 | Rank Transform of an Array | [Python](/Medium/1331-RankTransformofanArray/)|
+| 1331 | Rank Transform of an Array | [Python](/Easy/1331-RankTransformofanArray/)|
 | 1460 | Make Two Arrays Equal By Reversing Subarrays | [Python](/Easy/1460-MakeTwoArraysEqualByReversingSubarrays/)|
 | 1636 | Sort Array by Increasing Frequency | [Python](/Easy/1636-SortArraybyIncreasingFrequency/)|
 | 1684 | Count the Number of Consistent Strings | [Python](/Easy/1684-CounttheNumberofConsistentStrings/)|
