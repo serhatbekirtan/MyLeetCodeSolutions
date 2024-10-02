@@ -203,6 +203,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 1105 | Filling Bookcase Shelves | [Python](/Medium/1105-FillingBookcaseShelves/)|
 | 1140 | Stone Game II | [Python](/Medium/1140-StoneGameII/)|
 | 1310 | XOR Queries of a Subarray | [Python](/Medium/1310-XORQueriesofaSubarray/)|
+| 1331 | Rank Transform of an Array | [Python](/Medium/1331-RankTransformofanArray/)|
 | 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [Python](/Medium/1334-FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance/)|
 | 1367 | Linked List in Binary Tree | [Python](/Medium/1367-LinkedListinBinaryTree/)|
 | 1371 | Find the Longest Substring Containing Vowels in Even Counts | [Python](/Medium/1371-FindtheLongestSubstringContainingVowelsinEvenCounts/)|
