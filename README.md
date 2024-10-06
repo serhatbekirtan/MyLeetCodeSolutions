@@ -215,6 +215,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 1514 | Path with Maximum Probability | [Python](/Medium/1514-PathwithMaximumProbability/)|
 | 1590 | Make Sum Divisible by P | [Python](/Medium/1590-MakeSumDivisiblebyP/)|
 | 1653 | Minimum Deletions to Make String Balanced | [Python](/Medium/1653-MinimumDeletionstoMakeStringBalanced/)|
+| 1813 | Sentence Similarity III | [Python](/Medium/1813-SentenceSimilarityIII/)|
 | 1905 | Count Sub Islands | [Python](/Medium/1905-CountSubIslands/)|
 | 1937 | Maximum Number of Points with Cost | [Python](/Medium/1937-MaximumNumberofPointswithCost/)|
 | 2013 | Detect Squares | [Python](/Medium/2013-DetectSquares/)|
