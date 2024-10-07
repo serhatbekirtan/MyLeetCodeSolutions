@@ -16,10 +16,7 @@ class Solution:
         stack = []
 
         for c in s:
-            if len(stack) >= 1 and (
-                    (stack[-1] == 'A' and c == 'B') or
-                    (stack[-1] == 'C' and c == 'D')
-                ):
+            if len(stack) > 0 and ((stack[-1] == 'A' and c == 'B') or(stack[-1] == 'C' and c == 'D')):
                 stack.pop()
             else:
                 stack.append(c)
