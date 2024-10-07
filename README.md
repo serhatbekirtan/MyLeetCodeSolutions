@@ -115,6 +115,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 2053 | Kth Distinct String in an Array | [Python](/Easy/2053-KthDistinctStringinanArray/)|
 | 2220 | Minimum Bit Flips to Convert Number | [Python](/Easy/2220-MinimumBitFlipstoConvertNumber/)|
 | 2678 | Number of Senior Citizens | [Python](/Easy/2678-NumberofSeniorCitizens/)|
+| 2696 | Minimum String Length After Removing Substrings | [Python](/Easy/2696-MinimumStringLengthAfterRemovingSubstrings/)|
 
  ## Medium
 
