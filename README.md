@@ -198,6 +198,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 877 | Stone Game | [Python](/Medium/877-StoneGame/)|
 | 885 | Spiral Matrix III | [Python](/Medium/885-SpiralMatrixIII/)|
 | 912 | Sort an Array | [Python](/Medium/912-SortanArray/)|
+| 921 | Minimum Add to Make Parantheses Valid | [Python](/Medium/921-MinimumAddtoMakeParanthesesValid/)|
 | 947 | Most Stones Removed with Same Row or Column | [Python](/Medium/947-MostStonesRemovedwithSameRoworColumn/)|
 | 959 | Regions Cut By Slashes | [Python](/Medium/959-RegionsCutBySlashes/)|
 | 973 | K Closest Points to Origin | [Python](/Medium/973-KClosestPointstoOrigin/)|
