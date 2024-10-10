@@ -201,6 +201,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 921 | Minimum Add to Make Parantheses Valid | [Python](/Medium/921-MinimumAddtoMakeParanthesesValid/)|
 | 947 | Most Stones Removed with Same Row or Column | [Python](/Medium/947-MostStonesRemovedwithSameRoworColumn/)|
 | 959 | Regions Cut By Slashes | [Python](/Medium/959-RegionsCutBySlashes/)|
+| 962 | Maximum Width Ramp | [Python](/Medium/962-MaximumWidthRamp/)|
 | 973 | K Closest Points to Origin | [Python](/Medium/973-KClosestPointstoOrigin/)|
 | 981 | Time Based Key-Value Store | [Python](/Medium/981-TimeBasedKey-ValueStore/)|
 | 1105 | Filling Bookcase Shelves | [Python](/Medium/1105-FillingBookcaseShelves/)|
