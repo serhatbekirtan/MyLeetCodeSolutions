@@ -2,6 +2,7 @@ from typing import List
 
 
 class Solution:
+    # Monotonic Stack.
     def maxWidthRamp(self, nums: List[int]) -> int:
         n = len(nums)
         stack = []
@@ -17,3 +18,23 @@ class Solution:
                 maxWidth = max(maxWidth, j - stack.pop())
         
         return maxWidth
+    
+
+    def maxWidthRamp(self, nums: List[int]) -> int:
+        maxArray = [0] * len(nums)
+        i = len(nums) - 1
+        prevMax = 0
+
+        for num in reversed(nums):
+            maxArray[i] = max(num, prevMax)
+            prevMax = maxArray[i]
+            i -= 1
+        
+        res = 0
+        L = 0
+        for R in range(len(nums)):
+            while nums[L] > maxArray[R]:
+                L += 1
+            res = max(res, R - L)
+
+        return res
