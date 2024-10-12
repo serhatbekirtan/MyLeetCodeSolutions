@@ -221,6 +221,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 1813 | Sentence Similarity III | [Python](/Medium/1813-SentenceSimilarityIII/)|
 | 1905 | Count Sub Islands | [Python](/Medium/1905-CountSubIslands/)|
 | 1937 | Maximum Number of Points with Cost | [Python](/Medium/1937-MaximumNumberofPointswithCost/)|
+| 1937 | Minimum Number of Swaps to Make the String Balanced | [Python](/Medium/1963-MinimumNumberofSwapstoMaketheStringBalanced/)|
 | 2013 | Detect Squares | [Python](/Medium/2013-DetectSquares/)|
 | 2028 | Find Missing Observations | [Python](/Medium/2028-FindMissingObservations/)|
 | 2134 | Minimum Swaps to Group All 1's Together II | [Python](/Medium/2134-MinimumSwapstoGroupAll1'sTogetherII/)|
