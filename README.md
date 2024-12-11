@@ -233,6 +233,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 2419 | Longest Subarray With Maximum Bitwise AND                                   | [Python](/Medium/2419-LongestSubarrayWithMaximumBitwiseAND/)                            |
 | 2491 | Divide Players Into Teams of Equal Skill                                    | [Python](/Medium/2491-DividePlayersIntoTeamsofEqualSkill/)                              |
 | 2707 | Extra Characters in a String                                                | [Python](/Medium/2707-ExtraCharactersinaString/)                                        |
+| 2779 | Maximum Beauty of an Array After Applying Operation                         | [Python](/Medium/2779-MaximumBeautyofanArrayAfterApplyingOperation/)                    |
 | 2807 | Insert Greatest Common Divisors in Linked List                              | [Python](/Medium/2807-InsertGreatestCommonDivisorsinLinkedList/)                        |
 | 2976 | Minimum Cost to Convert String I                                            | [Python](/Medium/2976-MinimumCosttoConvertStringI/)                                     |
 | 2981 | Find Longest Special Substring That Occurs Thrice I                         | [Python](/Medium/2981-FindLongestSpecialSubstringThatOccursThriceI/)                    |
