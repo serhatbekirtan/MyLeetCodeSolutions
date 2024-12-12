@@ -115,6 +115,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 2022 | Convert 1D Array Into 2D Array                  | [Python](/Easy/2022-Convert1DArrayInto2DArray/)                  |
 | 2053 | Kth Distinct String in an Array                 | [Python](/Easy/2053-KthDistinctStringinanArray/)                 |
 | 2220 | Minimum Bit Flips to Convert Number             | [Python](/Easy/2220-MinimumBitFlipstoConvertNumber/)             |
+| 2558 | Take Gifts From the Richest Pile                | [Python](/Easy/2558-TakeGiftsFromtheRichestPile/)                |
 | 2678 | Number of Senior Citizens                       | [Python](/Easy/2678-NumberofSeniorCitizens/)                     |
 | 2696 | Minimum String Length After Removing Substrings | [Python](/Easy/2696-MinimumStringLengthAfterRemovingSubstrings/) |
 
