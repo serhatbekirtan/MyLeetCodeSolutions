@@ -229,6 +229,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 2013 | Detect Squares                                                              | [Python](/Medium/2013-DetectSquares/)                                                   |
 | 2028 | Find Missing Observations                                                   | [Python](/Medium/2028-FindMissingObservations/)                                         |
 | 2134 | Minimum Swaps to Group All 1's Together II                                  | [Python](/Medium/2134-MinimumSwapstoGroupAll1'sTogetherII/)                             |
+| 2182 | Construct String With Repeat Limit                                          | [Python](/Medium/2182-ConstructStringWithRepeatLimit/)                                  |
 | 2191 | Sort the Jumbled Numbers                                                    | [Python](/Medium/2191-SorttheJumbledNumbers/)                                           |
 | 2326 | Spiral Matrix IV                                                            | [Python](/Medium/2326-SpiralMatrixIV/)                                                  |
 | 2406 | Divide Intervals Into Minimum Number of Groups                              | [Python](/Medium/2406-DivideIntervalsIntoMinimumNumberofGroups/)                        |
