@@ -109,6 +109,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 1046 | Last Stone Weight                                     | [Python](/Easy/1046-LastStoneWeight/)                                |
 | 1331 | Rank Transform of an Array                            | [Python](/Easy/1331-RankTransformofanArray/)                         |
 | 1460 | Make Two Arrays Equal By Reversing Subarrays          | [Python](/Easy/1460-MakeTwoArraysEqualByReversingSubarrays/)         |
+| 1475 | Final Prices With a Special Discount in a Shop        | [Python](/Easy/1475-FinalPricesWithaSpecialDiscountinaShop/)         |
 | 1636 | Sort Array by Increasing Frequency                    | [Python](/Easy/1636-SortArraybyIncreasingFrequency/)                 |
 | 1684 | Count the Number of Consistent Strings                | [Python](/Easy/1684-CounttheNumberofConsistentStrings/)              |
 | 1945 | Sum of Digits of String After Convert                 | [Python](/Easy/1945-SumofDigitsofStringAfterConvert/)                |
