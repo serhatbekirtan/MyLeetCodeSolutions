@@ -194,6 +194,7 @@ My LeetCode Profile: [https://leetcode.com/u/serhatbekirtan/](https://leetcode.c
 | 725  | Split Linked List in Parts                                                  | [Python](/Medium/725-SplitLinkedListinParts/)                                           |
 | 729  | My Calendar I                                                               | [Python](/Medium/729-MyCalendarI/)                                                      |
 | 731  | My Calendar II                                                              | [Python](/Medium/731-MyCalendarII/)                                                     |
+| 769  | Max Chunks To Make Sorted                                                   | [Python](/Medium/769-MaxChunksToMakeSorted/)                                            |
 | 739  | Daily Temperatures                                                          | [Python](/Medium/739-DailyTemperatures/)                                                |
 | 840  | Magic Squares In Grid                                                       | [Python](/Medium/840-MagicSquaresInGrid/)                                               |
 | 853  | Car Fleet                                                                   | [Python](/Medium/853-CarFleet/)                                                         |
